@@ -6,7 +6,7 @@ import { logoURL } from '../../constants/constants';
 const StyledToolbar = styled(Toolbar)`
     background: #121212;
     min-height: 56px !important;
-    padding: 0 115px !important;
+    padding: 0 114px !important;
 `;
 
 const Logo = styled('img')({
